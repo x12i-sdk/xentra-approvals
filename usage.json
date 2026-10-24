@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xentra-approvals",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xentra-approvals",
+  "usageRepository": "https://github.com/x12i-sdk/xentra-approvals",
+  "sourceRepository": "https://github.com/x12i/xentra",
+  "sourceCommit": "004372e6695509bf2e95d2e4e53d4534e81dd312",
+  "sourcePackageDirectory": "packages/approvals",
+  "example": {
+    "title": "Create and approve a request in an isolated in-memory fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:38:20.470662+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9b28a1ed30608e9261f119cef9db9d681ef4faf8115a9aa85ccb62014ff817b4",
+    "manifestSha256": "68fcc038e35c64f75c819e1e6318849ac427094cad07474e9602b8b529004b69"
+  }
+}
